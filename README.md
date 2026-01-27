@@ -1,6 +1,6 @@
 # Base CNN: Deep Learning Architecture from Scratch
 
-This repository implements a  **Convolutional Neural Network (CNN)** architecture built entirely from scratch in Python. By avoiding high-level abstractions, this project serves as a deep dive into the fundamental mathematics of feature extraction and gradient-based optimization—skills.
+This repository implements a  **Convolutional Neural Network (CNN)** architecture built entirely from scratch in Python. By avoiding high-level abstractions, this project serves as a deep dive into the mathematics of feature extraction.
 
 ## Core Architecture
 The network is designed as a sequential pipeline of custom-built layers:
